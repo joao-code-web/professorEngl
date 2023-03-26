@@ -184,7 +184,7 @@ nav.mobile ul li a {
 }
 
 .members-detalhes {
-  margin: 90px auto;
+  margin: auto;
   display: flex;
   justify-content: center;
   flex-direction: column;
